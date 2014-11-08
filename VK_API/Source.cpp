@@ -1,0 +1,4 @@
+namespace vk_api
+{
+
+}
